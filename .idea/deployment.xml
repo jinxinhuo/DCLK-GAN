@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="image1325_user@222.19.236.163:2100">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/image1325_user/ssd_disk1/chengxiang_22/TICCGAN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
